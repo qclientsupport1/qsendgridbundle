@@ -16,7 +16,7 @@
         }
     ],
     "require" : {
-        "q-agency/qsendgrid": "v1.0.4"
+        "q-agency/qsendgrid": "^1.0.4"
     },
     "autoload" : {
         "psr-0" : {
